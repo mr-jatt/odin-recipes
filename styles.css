@@ -1,0 +1,40 @@
+body{
+    font-family: 'Monaco','garamond', 'sans-serif';
+    background-color: #EFE3C2;
+    color: #3E7B27;
+}
+
+ul.recipes{
+    list-style-type: none;
+}
+
+
+a{
+    margin: 10px;
+    color: #3E7B27;
+}
+
+.recipe{
+    margin: 5px;
+}
+
+h1{
+    color: #123524;
+}
+
+h3{
+    color: #3E7B27;
+    text-decoration: underline;
+    font-weight: 800;
+}
+
+img{
+    border-radius: 5px;
+}
+
+.source,
+.link{
+    color: black;
+    font-style: italic;
+}
+
